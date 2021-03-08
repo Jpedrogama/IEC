@@ -1,5 +1,5 @@
 //Programa : Controle de 2 sensores HC-SR04 - NewPing
-//Autor : Adilson Thomsen
+//Autor : Adilson Thomsen (Atualizado por João Pedro da Gama e Natalie)
 
 //Inicializa as bibliotecas do sensor Ultrasonico
 #include <NewPing.h>
